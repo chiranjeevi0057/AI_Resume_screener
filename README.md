@@ -15,6 +15,9 @@ The core pipeline works in three stages:
 
 The results are displayed in an interactive Streamlit dashboard with ranked candidate tables, bar charts, radar charts, gauge charts, and a CSV export feature.
 
+
+<img width="1918" height="1080" alt="Screenshot 2026-03-30 180404" src="https://github.com/user-attachments/assets/fb7cb579-c565-4da7-93ac-6bc5cf838c84" />
+
 ---
 
 ## Tech Stack
